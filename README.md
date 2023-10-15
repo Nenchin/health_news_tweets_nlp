@@ -4,7 +4,7 @@ This project aims to cluster health headline tweets and then classify the cluste
 
 NLTK: for text preprocessing and natural language processing tasks
 - Scikit-learn: for machine learning algorithms
-- Pandas and Glob: for data manipulation and analysis
+- Pandas and glob: for data manipulation and analysis
 - Matplotlib and Plotly: for data visualization
 - Imblearn: to handle data imbalance
 
@@ -46,9 +46,9 @@ The trained classification model can be used to identify tweets that are discuss
 
 Additional notes:
 
-The number of clusters used in the clustering step can be tuned to achieve better results.
-Different classification algorithms can be evaluated to find the one that performs best on the given dataset.
-The trained classification model can be deployed in a production environment to make predictions on new tweets in real time.
+- The number of clusters used in the clustering step can be tuned to achieve better results.
+- Different classification algorithms can be evaluated to find the one that performs best on the given dataset.
+- The trained classification model can be deployed in a production environment to make predictions on new tweets in real time.
 
 Contributions:
 
