@@ -2,7 +2,7 @@
 
 This project aims to cluster health headline tweets and then classify the clusters using natural language processing (NLP) techniques. The project is implemented in Python and uses the following libraries:
 
-NLTK: for text preprocessing and natural language processing tasks
+- NLTK: for text preprocessing and natural language processing tasks
 - Scikit-learn: for machine learning algorithms
 - Pandas and glob: for data manipulation and analysis
 - Matplotlib and Plotly: for data visualization
